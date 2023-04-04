@@ -38,12 +38,10 @@ Crear índice
 
 1. [Link a youtube](youtube.com)
 2. Segundo índice
-    2.1 Subíndice
     
 ```
 1. [Link a youtube](youtube.com)
 2. Segundo índice
-    2.1 Subíndice
 ```
 
 <hr>
