@@ -12,7 +12,7 @@ Crear links
 Crear checklist
 
 - [ ] 1
-    - [ ] 1.1
+    - [X] 1.1
         - [ ] 1.1.1
 
 ```
