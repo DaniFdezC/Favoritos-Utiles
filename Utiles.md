@@ -46,4 +46,17 @@ Crear índice
 
 <hr>
 
+Crear tablas
+
+| Número | Texto |
+| ------ | ----- |
+| 1      | Uno   |
+| 2      | Dos   |
+
+```
+| Número | Texto |
+| ------ | ----- |
+| 1      | Uno   |
+| 2      | Dos   |
+```
 
