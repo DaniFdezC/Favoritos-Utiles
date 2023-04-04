@@ -21,11 +21,31 @@ Crear checklist
         - [ ] 1.1.1
 ```
 <hr>
+
 Crear lista con viñetas
+
 * 1
     * 1.1
+    
 ```
 * 1
     * 1.1
 ```
+
 <hr>
+
+Crear índice
+
+1. [Link a youtube](youtube.com)
+2. Segundo índice
+    2.1 Subíndice
+    
+```
+1. [Link a youtube](youtube.com)
+2. Segundo índice
+    2.1 Subíndice
+```
+
+<hr>
+
+
