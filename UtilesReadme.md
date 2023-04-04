@@ -60,3 +60,19 @@ Crear tablas
 | 2      | Dos   |
 ```
 
+<hr>
+
+Crear desplegables
+
+<details>
+  <summary>Esto es un desplegable</summary>
+    Y hay texto
+</details>
+
+```
+<details>
+  <summary>Esto es un desplegable</summary>
+    Y hay texto
+</details>
+```
+
